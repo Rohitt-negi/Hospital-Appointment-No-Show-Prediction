@@ -25,7 +25,7 @@ This document contains all official submission form answers prepared for **Rohit
 ### 3. Code and Version Information
 | Field | Candidate Response |
 | :--- | :--- |
-| **Repository URL** | *(Insert GitHub / GitLab repository URL, e.g., https://github.com/rohitsinghnegi/hospital-no-show-prediction)* |
+| **Repository URL** | https://github.com/Rohitt-negi/Hospital-Appointment-No-Show-Prediction |
 | **Primary Branch** | `main` |
 | **Final Commit ID** | *(Run `git rev-parse HEAD` and insert commit hash)* |
 | **Reviewer Access** | Public (or provide read access to reviewer handle if private) |
@@ -78,3 +78,4 @@ This document contains all official submission form answers prepared for **Rohit
 | **Live Debugging Readiness** | I am prepared to execute live modifications to the codebase (e.g. adding features, altering cost weights, testing endpoints) during the 10-minute live coding session. |
 | **Data Privacy & Secrets** | I confirm that no real patient identifiable data, credentials, passwords, or live tokens are committed to this repository. |
 | **Link Integrity** | All video and repository links provided are functional and publicly accessible to reviewers. |
+
