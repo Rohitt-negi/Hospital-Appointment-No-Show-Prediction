@@ -120,3 +120,4 @@ def sweep_thresholds(y_true, y_proba, thresholds=None, c_fp=COST_FALSE_POSITIVE,
         'optimal_f1_threshold': float(best_f1_row['threshold']),
         'max_f1': float(best_f1_row['f1'])
     }
+

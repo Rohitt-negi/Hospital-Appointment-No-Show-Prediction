@@ -37,3 +37,4 @@ if __name__ == '__main__':
         print(f"TESTS FAILED: Errors={len(result.errors)}, Failures={len(result.failures)}")
         print("="*60 + "\n")
         sys.exit(1)
+

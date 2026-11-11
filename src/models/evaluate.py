@@ -262,3 +262,4 @@ def generate_evaluation_artifacts(data_dir='data/processed', models_dir='models'
 
 if __name__ == '__main__':
     generate_evaluation_artifacts()
+

@@ -231,3 +231,4 @@ async function loadSampleBatch() {
     alert('Batch evaluation error: ' + err.message);
   }
 }
+

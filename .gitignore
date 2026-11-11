@@ -47,3 +47,5 @@ ENV/
 # Temporary files & logs
 *.log
 /tmp/
+
+~
